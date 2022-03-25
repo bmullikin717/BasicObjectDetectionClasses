@@ -1,5 +1,5 @@
 # Basic Object Detection Classes for Casual Use #
-```
+
 This is a small package containing different classes that can be used for basic human/object detection. Coded using Python 3.9.9 using libraries opencv and mediapipe. 
 ---
 
