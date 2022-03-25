@@ -6,22 +6,21 @@ This is a small package containing different classes that can be used for basic 
 Install Dependencies:
 ---
 
-** Opencv **
+**Opencv**
 
-* Main Package *
+*Main Package*
 
 > pip install opencv-python 
 
-* Full Package *
+*Full Package*
 
 > pip install opencv-contrib-python
 
-** MediaPipe **
+**MediaPipe**
 
 > pip install mediapipe
 
-** Documentation **
+**Documentation**
 Opencv Documentation [Opencv Docs](https://pypi.org/project/opencv-python/)
 
 Mediapipe Documentation [Mediapipe Docs](https://google.github.io/mediapipe/)
-'''
