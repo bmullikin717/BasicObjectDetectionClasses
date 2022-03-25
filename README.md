@@ -21,6 +21,7 @@ Install Dependencies:
 > pip install mediapipe
 
 **Documentation**
+---
 Opencv Documentation [Opencv Docs](https://pypi.org/project/opencv-python/)
 
 Mediapipe Documentation [Mediapipe Docs](https://google.github.io/mediapipe/)
